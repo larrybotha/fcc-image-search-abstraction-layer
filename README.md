@@ -1,4 +1,4 @@
-# Free code camp - Image Search Abstraction Layer
+# Freecodecamp - Image Search Abstraction Layer
 
 https://www.freecodecamp.org/challenges/image-search-abstraction-layer
 
