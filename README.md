@@ -8,6 +8,6 @@ Glitch: https://glitch.com/edit/#!/fcc-lb-image-search-abstraction-layer
 
 ## API
 
-`https://fcc-lb-image-search-abstraction-layer.glitch.me/api/latest/imagesearch`
+`/api/latest/imagesearch`
 
-`https://fcc-lb-image-search-abstraction-layer.glitch.me/api/imagesearch/lolcats%20funny?offset=9`
+`/api/imagesearch/[search%20term][?offset=9]`
